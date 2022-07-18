@@ -139,7 +139,7 @@ main {
     font-size: 28px;
 }
 
-.main_card_bottom span:hover {
+.main_card_bottom button:hover {
     text-decoration: underline;
     cursor: pointer;
 }
@@ -168,7 +168,7 @@ main {
 
 .main_card_bottom button {
     font-size: 28px;
-    margin-bottom: 50px;
+    margin-bottom: 45px;
     border: none;
     background-color: transparent;
     color: #ffffff;
