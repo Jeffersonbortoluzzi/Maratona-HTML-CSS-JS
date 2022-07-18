@@ -29,7 +29,7 @@ h1 {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    gap: 30px;
+    gap: 55px;
 }
 
 .header_infos h1 {
@@ -66,14 +66,14 @@ main {
     font-size: 30px;
     font-family: "Poppins", sans-serif;
     color: #ffffff;
-    margin-top: 50px;
+    margin-top: 20px;
 }
 
 .main_nav ul {
     display: flex;
     flex-direction: row;
     gap: 20px;
-    margin-left: -39px;
+    
 }
 
 .main_nav ul li {
@@ -216,9 +216,10 @@ main {
 }
 
 .playlist_li_center div span {
-    font-size: 18px;
+    font-size: 20px;
     font-family: "Poppins", sans-serif;
     color: #ffffff;
+    margin-top: 25px;
 }
 
 .playlist_li_playButton {
@@ -232,6 +233,8 @@ main {
 .playlist_li_playButton img {
     height: 28px;
     margin-right: 10px;
+    margin-top: 25px;
+
 }
 
 .playlist_li_playButton img:hover {
